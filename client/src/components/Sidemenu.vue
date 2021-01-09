@@ -1,18 +1,6 @@
 <template>
-  <v-navigation-drawer
-    :value="drawer"
-    class="elevation-4"
-    color="blue lighten-4"  
-  >
-    <v-list-item>
-      <v-text-field
-        class="pt-4"
-        label="Solo"
-        placeholder="Rechercher"
-        solo
-      />
-    </v-list-item>
-  </v-navigation-drawer>
+  <div>
+  </div>
 </template>
 
 <script>
